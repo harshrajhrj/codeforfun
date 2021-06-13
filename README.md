@@ -1,5 +1,6 @@
 # codeforfun
 This repository contains some of the best codes for funny outputs.
+
 ***The code is all about a interesting output which creates a lower right and left triangle.***
 
 **OUTPUT**
